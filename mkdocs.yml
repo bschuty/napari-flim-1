@@ -1,0 +1,11 @@
+site_name: napari-flim
+site_description: This napari plugin allows to obten a phasor image from spectral images. 
+site_author: Bruno Schuty
+
+theme: readthedocs
+
+
+repo_url: https://github.com/bschuty/napari-flim
+
+pages:
+- Home: index.md
