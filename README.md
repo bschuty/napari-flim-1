@@ -31,7 +31,7 @@ You can install `napari-flim` via [pip]:
 
 To install latest development version :
 
-    pip install git+https://github.com/bschuty/napari-flim.git
+    pip install git+https://github.com/ubaimaging/napari-flim
 
 
 ## Contributing
